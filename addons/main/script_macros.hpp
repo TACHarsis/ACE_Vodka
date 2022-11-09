@@ -9,3 +9,15 @@
     #undef PREP
     #define PREP(fncName) [QPATHTOF(DOUBLES(fnc,fncName).sqf), QFUNC(fncName)] call CBA_fnc_compileFunction
 #endif
+
+#define MACRO_ADDITEM(ITEM,COUNT) class _xx_##ITEM { \
+    name = #ITEM; \
+    count = COUNT; \
+}
+
+#define MACRO_GROUND_HOLDER(OBJECT,EXTENSION,DISPLAYNAME) class TRIPLES(OBJECT,EXTENSION,gh) : DOUBLES(OBJECT,gh) { \
+    displayName = DISPLAYNAME; \
+    class TransportItems { \
+        MACRO_ADDITEM(DOUBLES(OBJECT,EXTENSION),1); \
+    }; \
+}

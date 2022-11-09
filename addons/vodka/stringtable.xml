@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="A3VB">
+    <Package name="Vodka">
+        <Key ID="STR_A3VB_Vodka_Setting_Cagetory_Mod">
+            <English>ACE3 Vodka Bags</English>
+        </Key>
+
+        <Key ID="STR_A3VB_Vodka_Item_Display_Name_100cl">
+            <English>Vodka IV (100cl)</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Item_Description_100cl">
+            <English>A serving size of Vodka in an IV bag.</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Item_Description_Use_100cl">
+            <English>Drink, desinfect or inject.</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Item_Display_Name_50cl">
+            <English>Vodka IV (50cl)</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Item_Description_50cl">
+            <English>IV bag of Vodka.</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Item_Description_Use_50cl">
+            <English>Drink, desinfect or inject.</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Item_Display_Name_25cl">
+            <English>Vodka IV (25cl)</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Item_Description_25cl">
+            <English>A rather small IV bag of Vodka</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Item_Description_Use_25cl">
+            <English>Drink, desinfect or inject.</English>
+        </Key>
+
+        <Key ID="STR_A3VB_Vodka_Action_Display_Name_100cl">
+            <English>Inject 100cl Vodka</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Action_Progress_100cl">
+            <English>Setting 100cl Vodka IV...</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Action_Display_Name_50cl">
+            <English>Inject 50cl Vodka</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Action_Progress_50cl">
+            <English>Setting 50cl Vodka IV...</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Action_Display_Name_25cl">
+            <English>Inject 25cl Vodka</English>
+        </Key>
+        <Key ID="STR_A3VB_Vodka_Action_Progress_25cl">
+            <English>Setting 25cl Vodka IV...</English>
+        </Key>
+
+    </Package>
+</Project>

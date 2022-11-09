@@ -1,0 +1,16 @@
+name = "ACE Vodka Bags"
+prefix = "A3VB"
+author = "Cat Harsis"
+template = "cba"
+mainprefix = "z"
+folder_optionals = true
+sig_version = 3
+files = [
+    "mod.cpp",
+    "*.paa"
+]
+
+exclude [
+    "*.png",
+    "*.pdn",
+]

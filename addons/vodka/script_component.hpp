@@ -1,5 +1,5 @@
 #define COMPONENT vodka
-#include "\z\A3VB\addons\vodka\script_mod.hpp"
+#include "\z\A3VB\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL
 // #define DISABLE_COMPILE_CACHE
@@ -11,4 +11,4 @@
     #define DEBUG_SETTINGS DEBUG_SETTINGS_VODKA
 #endif
 
-#include "\z\A3VB\addons\vodka\script_macros.hpp"
+#include "\z\A3VB\addons\main\script_macros.hpp"
